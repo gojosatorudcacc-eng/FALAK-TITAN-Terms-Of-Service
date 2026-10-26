@@ -1,96 +1,42 @@
-# Azuno Music Bot — Privacy Policy
+# Terms of Service — FALAK TITAN
 
-Last Updated: September 25, 2026
+**Last Updated:** October 26, 2026
 
-This Privacy Policy explains what information Azuno may process while providing its music-related services.
+### 1. Acceptance of Terms
+By inviting, configuring, or using FALAK Security, you agree to these Terms of Service and the applicable Discord Terms of Service and Community Guidelines.
 
-1. Information We Process
+### 2. Purpose of the Bot
+FALAK Security is intended exclusively for Discord server security, including anti-nuke protection, raid prevention, suspicious activity detection, and related administrative functions.
 
-To provide Azuno's music features, we may process limited information such as:
+### 3. Authorized Usage
+Users must use the bot only for legitimate server protection and moderation purposes. Any misuse intended to harass users, disrupt servers, bypass Discord restrictions, or conduct unauthorized activities is prohibited.
 
-- Discord User IDs
-- Discord Server/Guild IDs
-- Discord Channel IDs
-- Voice Channel IDs
-- Music commands sent to Azuno
-- Music queue and playback information
-- Server-specific bot settings
-- Basic technical information and error logs
+### 4. Permissions and Authorization
+Server owners and authorized administrators are responsible for granting appropriate permissions to the bot. The bot can only perform actions permitted by its granted permissions, Discord's systems, and its implemented functionality.
 
-2. Why We Use This Information
+### 5. Administrator Responsibility
+Server administrators are responsible for their server configuration, bot permissions, security settings, and decisions made using the bot. Administrators should review security logs and verify suspicious activity before taking consequential action whenever possible.
 
-Information may be processed to:
+### 6. Availability and Limitations
+FALAK Security is provided on an as-available basis. Continuous availability, uninterrupted operation, and complete protection against every attack or security incident cannot be guaranteed.
 
-- Play and manage music.
-- Maintain music queues.
-- Remember server-specific settings.
-- Process music commands.
-- Provide playback controls.
-- Troubleshoot errors and technical problems.
-- Prevent abuse and maintain service stability.
+### 7. Prohibited Activities
+Users must not:
+- Abuse the bot to target or harass individuals.
+- Attempt to exploit, reverse-engineer, or disrupt the bot or its infrastructure.
+- Use the bot to facilitate unauthorized access or malicious activity.
+- Deliberately misuse its security features to damage servers or bypass platform safeguards.
 
-3. Message Content
+### 8. Suspension and Termination
+Access to FALAK Security may be restricted or terminated in cases of abuse, security risks, violations of these terms, or circumstances requiring protective action.
 
-Azuno only processes messages, commands, or interactions that are necessary for its music features.
+### 9. Changes to These Terms
+These Terms of Service may be revised to reflect changes in functionality, security practices, or applicable requirements. Updated terms will be published through the designated official channels.
 
-We do not intentionally store ordinary Discord conversations.
+### 10. Limitation of Liability
+To the extent permitted by applicable law, the developers are not liable for indirect losses, service interruptions, or security incidents beyond their reasonable control. Nothing in these terms excludes liability that cannot legally be excluded.
 
-If a particular feature requires temporary processing of message content, it is used only to provide that feature.
+### 11. Contact and Support
+For questions, concerns, or assistance, contact the FALAK Security development or support team through the official support server.
 
-4. Music Search Information
-
-When you search for or request a song, Azuno may send the relevant search query or track information to third-party services required to locate or play the requested audio.
-
-Those services may have their own privacy policies and terms.
-
-5. Data Sharing
-
-We do not sell personal information.
-
-Information may be processed by third-party infrastructure providers, such as hosting, database, or music-related service providers, when necessary to operate Azuno.
-
-Information may also be disclosed when legally required or necessary to protect the service and its users.
-
-6. Data Retention
-
-We aim to retain information only for as long as reasonably necessary.
-
-Temporary playback data, such as queues and current tracks, may be deleted when no longer needed.
-
-Server settings may remain stored until they are reset, deleted, or Azuno is removed from the server.
-
-Technical logs may be retained for a limited period for troubleshooting and security.
-
-7. Data Deletion
-
-If you want stored information associated with your server or account deleted, contact:
-
-Azuno Privacy Support: [YOUR SUPPORT SERVER / EMAIL]
-
-Please include the relevant Discord User ID or Server ID where necessary to help us locate the data.
-
-8. Security
-
-We use reasonable measures to protect information processed by Azuno. However, no internet service can guarantee complete security.
-
-9. Third-Party Services
-
-Azuno may rely on third-party services for hosting, databases, music search, audio delivery, or other technical functionality.
-
-Those services may process information according to their own privacy policies.
-
-10. Changes to This Policy
-
-This Privacy Policy may be updated when Azuno's features or data practices change.
-
-The latest version will always contain the current Last Updated date.
-
-11. Contact
-
-For privacy questions or data deletion requests:
-
-Azuno Privacy Support: https://discord.gg/falak
-
----
-
-By using Azuno, you acknowledge that you have read and understood this Privacy Policy.
+By using FALAK Security, you acknowledge and agree to these Terms of Service.
